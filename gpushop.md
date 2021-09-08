@@ -20,7 +20,7 @@ So our goal is to find the way how we can get rid of this header. But the proble
 
 # Thinking about solution
 To solve this problem, we need to change the url path. So i tried with many things like changing the (/cart/checkout) to (/carT/CHECKOUT). But failed.
-After testing while, i knew that we only can change the (/checkout) not (/cart). After while my good friend told me to try with (url encoding). So I tried. and Got success
+After testing while, i knew that we can only change the (/checkout) not (/cart). After while my good friend told me to try with (url encoding). So I tried. and Got success
 
 # Final_Solution
 I encoded the (checkout) to url (%63%68%65%63%6b%6f%75%74). and I send this request. I Check my order, And There is a flag. Awesome! Really Nice challenge.
