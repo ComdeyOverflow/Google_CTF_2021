@@ -10,7 +10,7 @@ By looking the Source Code, We knew that website is using the nginx server and L
 # Get_Hint
 
 I am looking source code trying some sql attacks. And i go back to challenge page. and decide to look closer to another web page.
-It was paymeflare. In the Documentation (https://paymeflare-web.2021.ctfcompetition.com/doc), It was explain how the challenge is working and what happen when we buy something.
+It was paymeflare. In the Documentation (https://paymeflare-web.2021.ctfcompetition.com/doc), It was explain that how the challenge website is working and what happen when we buy or checkout something from products.
 
 # Key Point
 Reading the lines, i understood. As he said "Any request with a path matching (/checkout) will have an (X-Wallet header) added with the (payment address)."
