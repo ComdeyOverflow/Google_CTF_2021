@@ -2,7 +2,7 @@
 
 desecription: Hey kid, wanna buy some gpus?
 Attachment: https://bit.ly/3jOft6u
-Challenge_Link: http://gpushop.2021.ctfcompetition.com
+Challenge_Link: http://gpushop.2021.ctfcompetition.com , https://paymeflare-web.2021.ctfcompetition.com/
 
 # Source_Code
 Looking the Source Code, We knew that website is using the nginx server and Laravel-php-framework version.
