@@ -29,5 +29,8 @@ I encoded the (checkout) to url (%63%68%65%63%6b%6f%75%74). and I send this requ
 POST /cart/%63%68%65%63%6b%6f%75%74 HTTP/1.1
 Host: gpushop.2021.ctfcompetition.com
 
+# Flag
+CTF{fdc990bd13fa3a0e760a14b560dd658c}
+
 # Sorry
 I can't post and upload image here right now because of my github problems. Please Forgive me. I will try my best to put image here.
